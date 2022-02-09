@@ -1,7 +1,5 @@
 import pyqiwi
 
-from SimpleQIWI import * 
-
 import sys
 
 import webbrowser as wb
